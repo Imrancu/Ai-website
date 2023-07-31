@@ -32,14 +32,14 @@ const tools = [
     icon: VideoIcon,
     color: "text-orange-700",
     bgColor: "bg-orange-700/10",
-    href: "/image",
+    href: "/video",
   },
   {
     label: "Code Generation",
     icon: Code,
     color: "text-green-700",
     bgColor: "bg-green-700/10",
-    href: "/image",
+    href: "/code",
   },
 ]
 
